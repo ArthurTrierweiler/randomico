@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace hwapp
+namespace console_dotnet
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+    class Program{
+        static void Main(string[] args){
+        validacao v = new validacao();
         }
+         
     }
+   
 }
